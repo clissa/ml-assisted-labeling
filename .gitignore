@@ -1,3 +1,10 @@
+# Custom entries
+c-FOS
+model/pretrained_model
+test_VGG
+
+### Template ###
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
