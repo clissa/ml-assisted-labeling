@@ -2,6 +2,7 @@
 c-FOS
 src/model/pretrained_model
 test_VGG
+.idea
 
 ### Template ###
 
