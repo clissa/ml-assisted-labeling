@@ -1,6 +1,6 @@
 # Custom entries
 c-FOS
-model/pretrained_model
+src/model/pretrained_model
 test_VGG
 
 ### Template ###
