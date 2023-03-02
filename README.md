@@ -1,7 +1,8 @@
 # ML-Assisted pre-labeling for VGG Visual Image Annotator
 
 
----
+[![GitHub license](https://img.shields.io/badge/License-Apache%202.0-blue)](https://github.com/clissa/ml-assisted-labeling/blob/main/LICENSE)
+[![GitHub commit](https://img.shields.io/github/last-commit/clissa/ml-assisted-labeling)](https://github.com/clissa/ml-assisted-labeling)
 
 This repository contains some utils to perform ML-assisted labeling compatible with 
 [VGG Visual Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/) (VIA).
